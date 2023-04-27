@@ -13,5 +13,5 @@ When you figure out which is which.......
 
 https://user-images.githubusercontent.com/67034993/234846818-e5d95891-057a-43c4-a703-5767302cf171.mp4
 
-Built a scene where you put all the object (in my case, painting, artist explanations and the audio system)
+Built a scene where you put all the object (in my case, painting, artist explanations and the audio system).
 ![image](https://github.com/holydarktank2/VR_Gallery/blob/main/screenshots/screenshot1.PNG)
